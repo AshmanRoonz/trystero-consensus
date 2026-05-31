@@ -1,0 +1,33 @@
+{
+  "name": "trystero-consensus",
+  "version": "0.1.0",
+  "description": "Owner-free, server-free consensus helpers for peer-to-peer web apps. Deterministic proposer election, convergent shared state, and claim/vote validation. Transport agnostic; pairs naturally with Trystero.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node sim.js",
+    "demo": "node sim.js"
+  },
+  "keywords": [
+    "p2p",
+    "peer-to-peer",
+    "webrtc",
+    "trystero",
+    "consensus",
+    "multiplayer",
+    "netcode",
+    "serverless"
+  ],
+  "author": "Ashman Roonz",
+  "license": "MIT",
+  "homepage": "https://lss.fractalreality.ca",
+  "sideEffects": false
+}
