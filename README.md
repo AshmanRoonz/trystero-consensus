@@ -176,6 +176,6 @@ node sim.js
 
 ## Provenance
 
-These patterns were developed for [Last Ship Sailing](https://lss.fractalreality.ca) and generalized here. The tiered broadcast model they slot into (high-rate position/state, foveal aim/projectiles between engaged players, event-driven consensus-validated kills and round events) is described in the game's netcode. If you build something with these, or fold the ideas into a library, an attribution back is appreciated but not required.
+These patterns were developed for [Last Ship Sailing](https://lss.fractalreality.ca) and generalized here. The tiered broadcast model they slot into (high-rate position/state, foveal aim/projectiles between engaged players, event-driven consensus-validated kills and round events) is described in the game's netcode. If you build something with these, or fold the ideas into a library, an attribution back is appreciated.
 
 Built on the shoulders of [Trystero](https://github.com/dmotz/trystero) by Dan Motzenbecker.
